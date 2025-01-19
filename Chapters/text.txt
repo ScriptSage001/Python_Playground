@@ -1,0 +1,3 @@
+This is a sample text to be added to a file created using Python File I/O
+This is another sample text to be added to a file created using Python File I/O append operation
+This is another line for the multi line text.

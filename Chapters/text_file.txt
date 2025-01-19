@@ -1,0 +1,1 @@
+This line will replace the previous text using 'w+' operation (truncates if exists or creates a new one)
